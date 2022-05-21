@@ -2,9 +2,9 @@
 face emotion and gender recognition using opencv and deep learning
 
 packages required:
-numpy
-deepface
-opencv
+  numpy
+  deepface
+  opencv
 
 
 Follow these steps to get output:
